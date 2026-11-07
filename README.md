@@ -26,15 +26,3 @@ A touchless Human-Computer Interface (HCI) running on a live webcam feed that de
 
 \- \*\*OS Hardware Interfacing:\*\* PyCaw (Windows COM APIs), PyAutoGUI
 
-
-
-\## Setup \& Usage
-
-1\. Clone the repository:
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/](https://github.com/)<your-username>/Hand-Gesture-HCI-Engine.git
-
-&#x20;  cd Hand-Gesture-HCI-Engine
-
